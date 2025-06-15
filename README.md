@@ -1,4 +1,4 @@
-# Ray Music Visualizer for Lively Wallpaper
+# Ray Music Visualizer for Lively or Sucrose Wallpaper
 
 <img src="/video.gif" width="400" />
 
